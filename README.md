@@ -1,3 +1,3 @@
 # John Reitano's Zettelkasten
 
-- [[building-useful-software.md]]
+- [Building useful software](building-useful-software.md)
